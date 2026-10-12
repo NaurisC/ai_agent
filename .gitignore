@@ -1,0 +1,6 @@
+.venv/
+.env
+mihouse/.env
+**/.env
+.env
+__pyache__/
